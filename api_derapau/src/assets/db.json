@@ -1,0 +1,22 @@
+{
+  "articles": [
+    {
+      "author": "nada",
+      "content": "coucou c'est moi",
+      "id": 1,
+      "date": 24012025
+    },
+    {
+      "author": "Joe",
+      "content": "je suis Joe Dalton et j'aime ton site",
+      "id": 2,
+      "date": 24012025
+    },
+    {
+      "id": "270d",
+      "author": "adam",
+      "content": "coucou",
+      "date": "2025-01-24T15:23:28.318Z"
+    }
+  ]
+}
